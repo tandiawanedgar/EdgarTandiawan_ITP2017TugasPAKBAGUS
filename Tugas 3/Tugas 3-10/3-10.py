@@ -1,0 +1,23 @@
+data=['nissan','BMW','fortuner','toyota','sedan','dodge']
+print(data[0])
+print('i like to own',data[1])
+data[0]='chevrolet'
+print(data)
+data.append('pajero')
+print(data)
+data.insert(0,'mercy')
+print(data)
+del data[1]
+print(data)
+data.pop()
+print(data)
+popdata=data.pop(1)
+print('my car is',popdata)
+data.remove('toyota')
+print(data)
+data.sort()
+print(data)
+print(sorted(data))
+data.reverse()
+print(data)
+print(len(data))

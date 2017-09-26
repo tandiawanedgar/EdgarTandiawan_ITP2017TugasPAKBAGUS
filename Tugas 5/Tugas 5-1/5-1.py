@@ -1,0 +1,28 @@
+place='italy'
+print('are you in italy')
+print(place=='italy')
+print('are you in moskow')
+print(place=='moskow')
+print('\n')
+place='rome'
+print('are you in rome')
+print(place=='rome')
+print('are you in russia')
+print(place=='russia')
+print('\n')
+place='south korea'
+print('are you in south kore')
+print(place=='south korea')
+print('are you in north korea')
+print(place=='north korea')
+print('\n')
+place='paris'
+print('are you in paris')
+print(place=='paris')
+print('are you in maldives')
+print(place=='maldives')
+print('\n')
+print('are you in japan')
+print(place=='japan')
+print('are you in thailand')
+print(place=='thailand')
